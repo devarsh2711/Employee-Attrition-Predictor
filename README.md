@@ -1,5 +1,1 @@
-## 👥 Contributors
-
-- [Devarsh Kumar](https://github.com/devarsh2711)
-- [Kushagra Jain](https://github.com/kush1512)
-
+Link to the predictor- https://employee-attrition-predictor-devarsh-kushagra.streamlit.app/
